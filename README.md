@@ -1,143 +1,288 @@
-<div align="center">
-<img src="assets/header.svg" width="100%" alt="Aditi Sharma, aspiring AI Security Engineer. B.Tech CSE, Cyber Security and Digital Forensics, VIT Bhopal">
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=030407&section=header" width="100%" alt=""></p>
 
-<!--STATS:START-->
-<img src="https://img.shields.io/badge/Contributions%20in%202026-55-FF5A0A?style=for-the-badge&labelColor=400849" alt="contributions">
-<img src="https://img.shields.io/badge/Public%20repositories-2-E7B0DE?style=for-the-badge&labelColor=400849" alt="public repositories">
-<img src="https://img.shields.io/badge/Repos%20contributed%20to-1-FF5A0A?style=for-the-badge&labelColor=400849" alt="contributed to">
-<!--STATS:END-->
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=100&duration=2600&pause=60000&repeat=false&color=D4FF24&center=true&vCenter=true&width=620&height=140&lines=Aditi" alt="Aditi sharma"></p>
 
-**Machine learning, built to ship and easy to explain.**
+<p align="center"><a href="https://github.com/aditiprog"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=E6EDF3&center=true&vCenter=true&width=800&height=46&lines=Aspiring+AI+Security+Engineer;B.Tech+CSE+%E2%97%86+Cyber+Security+%26+Digital+Forensics;VIT+Bhopal" alt="Aspiring AI Security Engineer, B.Tech CSE, Cyber Security and Digital Forensics, VIT Bhopal"></a></p>
 
-<sub>ML · NLP · applied AI · security — Bhopal, India</sub>
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/DEGREE-B.TECH%20CSE-D4FF24?style=for-the-badge&labelColor=030407" alt="DEGREE: B.TECH CSE">
+<img src="https://img.shields.io/badge/FOCUS-AI%20SECURITY-1558C9?style=for-the-badge&labelColor=030407" alt="FOCUS: AI SECURITY">
+<img src="https://img.shields.io/badge/LOCATION-VIT%20BHOPAL-D4FF24?style=for-the-badge&labelColor=030407" alt="LOCATION: VIT BHOPAL">
+<img src="https://komarev.com/ghpvc/?username=aditiprog&label=PROFILE+VIEWS&color=1558C9&labelColor=030407&style=for-the-badge" alt="Profile views">
+</p>
 
-<br>
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  ⚡  W H O A M I                                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
-<img src="assets/title-skills.svg" width="100%" alt="Skills">
+```text
+┌──(aditi㉿vitbhopal)-[~]
+└─$ cat identity.json
+{
+  "name":     "Aditi Sharma",
+  "degree":   "B.Tech CSE, Cyber Security & Digital Forensics",
+  "campus":   "VIT Bhopal",
+  "location": "Bhopal, India",
+  "focus":    ["AI security", "machine learning", "NLP", "applied AI"],
+  "built":    ["EventVision", "BankMind", "SMS Spam Detection", "Password Generator"],
+  "team":     ["ADAPTA WAF", "VOUCHLY"],
+  "award":    "Best Event-Driven Computing Prototype, NeuroNex"
+}
+```
+
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  🔐  C Y B E R S E C U R I T Y  &  A I  F O C U S      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20SECURITY-D4FF24?style=for-the-badge" alt="AI SECURITY">
+<img src="https://img.shields.io/badge/DIGITAL%20FORENSICS-1558C9?style=for-the-badge" alt="DIGITAL FORENSICS">
+<img src="https://img.shields.io/badge/ETHICAL%20HACKING-D4FF24?style=for-the-badge" alt="ETHICAL HACKING">
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-1558C9?style=for-the-badge" alt="NETWORK SECURITY">
+<img src="https://img.shields.io/badge/CTF-D4FF24?style=for-the-badge" alt="CTF">
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-1558C9?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" alt="MACHINE LEARNING">
+<img src="https://img.shields.io/badge/NLP-D4FF24?style=for-the-badge" alt="NLP">
+</p>
+
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  💻  S K I L L S                                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 <p align="center">
 <sub><b>LANGUAGES</b></sub><br>
-<img src="https://img.shields.io/badge/Python-FF5A0A?style=flat&labelColor=FF5A0A&logo=python&logoColor=FFFFFF" alt="Python">
-<img src="https://img.shields.io/badge/SQL-400849?style=flat&labelColor=400849&logo=sqlite&logoColor=E7B0DE" alt="SQL">
-<img src="https://img.shields.io/badge/C%2B%2B-E7B0DE?style=flat&labelColor=E7B0DE&logo=cplusplus&logoColor=400849" alt="C++"><br><br>
+<img src="https://img.shields.io/badge/Python-D4FF24?style=flat&labelColor=D4FF24&logo=python&logoColor=030407" alt="Python">
+<img src="https://img.shields.io/badge/SQL-1558C9?style=flat&labelColor=1558C9&logo=sqlite&logoColor=FFFFFF" alt="SQL">
+<img src="https://img.shields.io/badge/C%2B%2B-D4FF24?style=flat&labelColor=D4FF24&logo=cplusplus&logoColor=030407" alt="C++"><br><br>
 <sub><b>MACHINE LEARNING &amp; DATA</b></sub><br>
-<img src="https://img.shields.io/badge/Scikit--learn-FF5A0A?style=flat&labelColor=FF5A0A&logo=scikitlearn&logoColor=FFFFFF" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/Pandas-400849?style=flat&labelColor=400849&logo=pandas&logoColor=E7B0DE" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-E7B0DE?style=flat&labelColor=E7B0DE&logo=numpy&logoColor=400849" alt="NumPy">
-<img src="https://img.shields.io/badge/Matplotlib-FF5A0A?style=flat&labelColor=FF5A0A" alt="Matplotlib">
-<img src="https://img.shields.io/badge/EDA-400849?style=flat&labelColor=400849" alt="EDA">
-<img src="https://img.shields.io/badge/Feature%20Engineering-E7B0DE?style=flat&labelColor=E7B0DE" alt="Feature Engineering">
-<img src="https://img.shields.io/badge/Data%20Cleaning-FF5A0A?style=flat&labelColor=FF5A0A" alt="Data Cleaning"><br><br>
+<img src="https://img.shields.io/badge/Scikit--learn-1558C9?style=flat&labelColor=1558C9&logo=scikitlearn&logoColor=FFFFFF" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/Pandas-D4FF24?style=flat&labelColor=D4FF24&logo=pandas&logoColor=030407" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-1558C9?style=flat&labelColor=1558C9&logo=numpy&logoColor=FFFFFF" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-D4FF24?style=flat&labelColor=D4FF24" alt="Matplotlib">
+<img src="https://img.shields.io/badge/EDA-1558C9?style=flat&labelColor=1558C9" alt="EDA">
+<img src="https://img.shields.io/badge/Feature%20Engineering-D4FF24?style=flat&labelColor=D4FF24" alt="Feature Engineering">
+<img src="https://img.shields.io/badge/Data%20Cleaning-1558C9?style=flat&labelColor=1558C9" alt="Data Cleaning"><br><br>
 <sub><b>AI &amp; GENERATIVE AI</b></sub><br>
-<img src="https://img.shields.io/badge/NLP-400849?style=flat&labelColor=400849" alt="NLP">
-<img src="https://img.shields.io/badge/Generative%20AI-E7B0DE?style=flat&labelColor=E7B0DE" alt="Generative AI">
-<img src="https://img.shields.io/badge/LLM%20Integration-FF5A0A?style=flat&labelColor=FF5A0A" alt="LLM Integration">
-<img src="https://img.shields.io/badge/Prompt%20Engineering-400849?style=flat&labelColor=400849" alt="Prompt Engineering">
-<img src="https://img.shields.io/badge/LLM%20Reasoning%20%26%20Automation-E7B0DE?style=flat&labelColor=E7B0DE" alt="LLM Reasoning & Automation"><br><br>
+<img src="https://img.shields.io/badge/NLP-D4FF24?style=flat&labelColor=D4FF24" alt="NLP">
+<img src="https://img.shields.io/badge/Generative%20AI-1558C9?style=flat&labelColor=1558C9" alt="Generative AI">
+<img src="https://img.shields.io/badge/LLM%20Integration-D4FF24?style=flat&labelColor=D4FF24" alt="LLM Integration">
+<img src="https://img.shields.io/badge/Prompt%20Engineering-1558C9?style=flat&labelColor=1558C9" alt="Prompt Engineering">
+<img src="https://img.shields.io/badge/LLM%20Reasoning%20%26%20Automation-D4FF24?style=flat&labelColor=D4FF24" alt="LLM Reasoning & Automation"><br><br>
 <sub><b>DEPLOYMENT &amp; AUTOMATION</b></sub><br>
-<img src="https://img.shields.io/badge/FastAPI-FF5A0A?style=flat&labelColor=FF5A0A&logo=fastapi&logoColor=FFFFFF" alt="FastAPI">
-<img src="https://img.shields.io/badge/REST%20APIs-400849?style=flat&labelColor=400849" alt="REST APIs">
-<img src="https://img.shields.io/badge/n8n-E7B0DE?style=flat&labelColor=E7B0DE&logo=n8n&logoColor=400849" alt="n8n">
-<img src="https://img.shields.io/badge/ETL%20Pipelines-FF5A0A?style=flat&labelColor=FF5A0A" alt="ETL Pipelines">
-<img src="https://img.shields.io/badge/Vercel-400849?style=flat&labelColor=400849&logo=vercel&logoColor=E7B0DE" alt="Vercel">
-<img src="https://img.shields.io/badge/Git-E7B0DE?style=flat&labelColor=E7B0DE&logo=git&logoColor=400849" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-FF5A0A?style=flat&labelColor=FF5A0A&logo=github&logoColor=FFFFFF" alt="GitHub"><br><br>
+<img src="https://img.shields.io/badge/FastAPI-1558C9?style=flat&labelColor=1558C9&logo=fastapi&logoColor=FFFFFF" alt="FastAPI">
+<img src="https://img.shields.io/badge/REST%20APIs-D4FF24?style=flat&labelColor=D4FF24" alt="REST APIs">
+<img src="https://img.shields.io/badge/n8n-1558C9?style=flat&labelColor=1558C9&logo=n8n&logoColor=FFFFFF" alt="n8n">
+<img src="https://img.shields.io/badge/ETL%20Pipelines-D4FF24?style=flat&labelColor=D4FF24" alt="ETL Pipelines">
+<img src="https://img.shields.io/badge/Vercel-1558C9?style=flat&labelColor=1558C9&logo=vercel&logoColor=FFFFFF" alt="Vercel">
+<img src="https://img.shields.io/badge/Git-D4FF24?style=flat&labelColor=D4FF24&logo=git&logoColor=030407" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-1558C9?style=flat&labelColor=1558C9&logo=github&logoColor=FFFFFF" alt="GitHub"><br><br>
 <sub><b>SECURITY FOUNDATIONS</b></sub><br>
-<img src="https://img.shields.io/badge/Network%20Security-400849?style=flat&labelColor=400849" alt="Network Security">
-<img src="https://img.shields.io/badge/Digital%20Forensics-E7B0DE?style=flat&labelColor=E7B0DE" alt="Digital Forensics">
-<img src="https://img.shields.io/badge/Ethical%20Hacking-FF5A0A?style=flat&labelColor=FF5A0A" alt="Ethical Hacking">
-<img src="https://img.shields.io/badge/CTF-400849?style=flat&labelColor=400849" alt="CTF"><br><br>
+<img src="https://img.shields.io/badge/Network%20Security-D4FF24?style=flat&labelColor=D4FF24" alt="Network Security">
+<img src="https://img.shields.io/badge/Digital%20Forensics-1558C9?style=flat&labelColor=1558C9" alt="Digital Forensics">
+<img src="https://img.shields.io/badge/Ethical%20Hacking-D4FF24?style=flat&labelColor=D4FF24" alt="Ethical Hacking">
+<img src="https://img.shields.io/badge/CTF-1558C9?style=flat&labelColor=1558C9" alt="CTF"><br><br>
 <sub><b>TOOLS &amp; PLATFORMS</b></sub><br>
-<img src="https://img.shields.io/badge/Jupyter-E7B0DE?style=flat&labelColor=E7B0DE&logo=jupyter&logoColor=400849" alt="Jupyter">
-<img src="https://img.shields.io/badge/VS%20Code-FF5A0A?style=flat&labelColor=FF5A0A" alt="VS Code">
-<img src="https://img.shields.io/badge/Brian2%20%28SNN%29-400849?style=flat&labelColor=400849" alt="Brian2 (SNN)">
+<img src="https://img.shields.io/badge/Jupyter-D4FF24?style=flat&labelColor=D4FF24&logo=jupyter&logoColor=030407" alt="Jupyter">
+<img src="https://img.shields.io/badge/VS%20Code-1558C9?style=flat&labelColor=1558C9" alt="VS Code">
+<img src="https://img.shields.io/badge/Brian2%20%28SNN%29-D4FF24?style=flat&labelColor=D4FF24" alt="Brian2 (SNN)">
 </p>
 
-<br>
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"fontFamily":"Segoe UI, Helvetica, sans-serif","cScale0":"#D4FF24","cScale1":"#1558C9","cScale2":"#D4FF24","cScale3":"#1558C9","cScale4":"#D4FF24","cScale5":"#1558C9","cScaleLabel0":"#030407","cScaleLabel1":"#FFFFFF","cScaleLabel2":"#030407","cScaleLabel3":"#FFFFFF","cScaleLabel4":"#030407","cScaleLabel5":"#FFFFFF","lineColor":"#1558C9"}}}%%
+mindmap
+  root((Aditi))
+    Languages
+      Python
+      SQL
+      C++
+    ML and data
+      Scikit-learn
+      Pandas
+      NumPy
+      EDA
+      Feature engineering
+    AI
+      NLP
+      Generative AI
+      LLM integration
+      Prompt engineering
+    Deployment
+      FastAPI
+      REST APIs
+      n8n
+      ETL pipelines
+      Vercel
+    Security
+      Network security
+      Digital forensics
+      Ethical hacking
+      CTF
+    Tools
+      Jupyter
+      Git and GitHub
+      Brian2 SNN
+```
 
-<img src="assets/title-projects.svg" width="100%" alt="Featured Projects">
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  🚀  F E A T U R E D  P R O J E C T S                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+**EventVision** — turns camera frames into sparse event data, scores activity with a spiking neural network and shows it live on a dashboard. 🏆 Best Event-Driven Computing Prototype at NeuroNex.  
+[Repository](https://github.com/aditiprog/Event_Vision) · [Live dashboard](https://frontend-7obzm9ald-aditi-s-projects2521.vercel.app)
 
-**[EventVision](https://github.com/aditiprog/Event_Vision)** · *Event-driven neuromorphic video analytics, 2026*<br>
-<sub>Converts camera frames into sparse event data, scores activity with a spiking neural network and shows it live on a dashboard. 🏆 Best Event-Driven Computing Prototype at NeuroNex.</sub><br>
-<sub><code>Webcam → Events → Brian2 SNN → FastAPI → React</code></sub><br>
-<img src="https://img.shields.io/badge/Python-FF5A0A?style=flat" alt="Python"> <img src="https://img.shields.io/badge/OpenCV-400849?style=flat" alt="OpenCV"> <img src="https://img.shields.io/badge/Brian2-E7B0DE?style=flat" alt="Brian2"> <img src="https://img.shields.io/badge/FastAPI-FF5A0A?style=flat" alt="FastAPI"> <img src="https://img.shields.io/badge/React-400849?style=flat" alt="React"> <img src="https://img.shields.io/badge/Vite-E7B0DE?style=flat" alt="Vite"><br>
-<a href="https://github.com/aditiprog/Event_Vision"><b>Repository</b></a> · <a href="https://frontend-7obzm9ald-aditi-s-projects2521.vercel.app"><b>Live dashboard</b></a>
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1558C9","primaryTextColor":"#FFFFFF","primaryBorderColor":"#1558C9","lineColor":"#D4FF24","fontFamily":"Segoe UI, Helvetica, sans-serif"}}}%%
+flowchart LR
+  subgraph P["EventVision · event-driven neuromorphic video analytics"]
+    direction LR
+    A(["Webcam"]) e1@--> B["Sparse event data"] e2@--> C["Brian2 spiking network"] e3@--> D["FastAPI"] e4@--> E(["React dashboard"])
+  end
+  e1@{ animate: true }
+  e2@{ animate: true }
+  e3@{ animate: true }
+  e4@{ animate: true }
+  class B,C,D n
+  class A,E hot
+  style P fill:#030407,stroke:#1558C9,stroke-width:2px,color:#D4FF24
+  classDef n fill:#1558C9,stroke:#1558C9,color:#FFFFFF
+  classDef hot fill:#D4FF24,stroke:#D4FF24,color:#030407,stroke-width:2px
+  linkStyle default stroke:#D4FF24,stroke-width:2.5px
+```
 
-</td>
-<td valign="top" width="50%">
+**BankMind** — predicts whether a bank customer will subscribe to a term deposit, then explains the result in plain language through an LLM.  
+[Repository](https://github.com/aditiprog/bankmind-aditi-sharma)
 
-**[BankMind](https://github.com/aditiprog/bankmind-aditi-sharma)** · *Subscription prediction and explanation engine, 2026*<br>
-<sub>Predicts whether a bank customer will subscribe to a term deposit, then explains the result in plain language through an LLM. Trained on 45,000+ records; FastAPI with <code>/health</code>, <code>/predict</code> and <code>/explain</code>.</sub><br>
-<sub><code>UCI data → Model compare → FastAPI → Groq LLM</code></sub><br>
-<img src="https://img.shields.io/badge/Python-FF5A0A?style=flat" alt="Python"> <img src="https://img.shields.io/badge/Scikit--learn-400849?style=flat" alt="Scikit-learn"> <img src="https://img.shields.io/badge/FastAPI-E7B0DE?style=flat" alt="FastAPI"> <img src="https://img.shields.io/badge/Groq-FF5A0A?style=flat" alt="Groq"><br>
-<a href="https://github.com/aditiprog/bankmind-aditi-sharma"><b>Repository</b></a>
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1558C9","primaryTextColor":"#FFFFFF","primaryBorderColor":"#1558C9","lineColor":"#D4FF24","fontFamily":"Segoe UI, Helvetica, sans-serif"}}}%%
+flowchart LR
+  subgraph P["BankMind · subscription prediction and explanation engine"]
+    direction LR
+    A(["UCI bank data<br/>45,000+ records"]) e1@--> B["Compare Logistic Regression<br/>and Random Forest"] e2@--> C["FastAPI<br/>/health /predict /explain"] e3@--> D(["Groq LLM<br/>plain-language explanation"])
+  end
+  e1@{ animate: true }
+  e2@{ animate: true }
+  e3@{ animate: true }
+  class B,C n
+  class A,D hot
+  style P fill:#030407,stroke:#1558C9,stroke-width:2px,color:#D4FF24
+  classDef n fill:#1558C9,stroke:#1558C9,color:#FFFFFF
+  classDef hot fill:#D4FF24,stroke:#D4FF24,color:#030407,stroke-width:2px
+  linkStyle default stroke:#D4FF24,stroke-width:2.5px
+```
 
-</td>
-</tr>
-</table>
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  📊  G I T H U B  B A T T L E F I E L D                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
-<br>
-
-<img src="assets/title-activity.svg" width="100%" alt="Contribution Activity">
-
-<!--CALENDAR:START-->
-<p align="center"><a href="https://github.com/aditiprog"><img src="https://raw.githubusercontent.com/aditiprog/aditiprog/main/assets/contribution-calendar.svg?v=b68837a3" width="100%" alt="Contribution calendar for 2026: 55 contributions"></a></p>
-<!--CALENDAR:END-->
-
-<br>
-
-<img src="assets/title-repos.svg" width="100%" alt="Repositories">
-
-<sub>Every public repository on my account. This list rebuilds itself automatically, so new repos show up without editing this file.</sub>
-
-<!--REPOS:START-->
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-<a href="https://github.com/aditiprog/Event_Vision"><b>Event_Vision</b></a><br>
-<sub>Event-driven neuromorphic video analytics. Python, FastAPI, React. Live on Vercel.</sub><br>
-<img src="https://img.shields.io/badge/Python-FF5A0A?style=flat" alt="Python">
-</td>
-<td valign="top" width="50%">
-<a href="https://github.com/aditiprog/bankmind-aditi-sharma"><b>bankmind-aditi-sharma</b></a><br>
-<sub>Term-deposit prediction API with an LLM explanation layer.</sub><br>
-<img src="https://img.shields.io/badge/Python-400849?style=flat" alt="Python">
-</td>
-</tr>
-</table>
-<!--REPOS:END-->
-
-<br>
-
-<img src="assets/title-contribs.svg" width="100%" alt="Contributions">
-
-<sub>Projects owned by other people or teams that I have committed to or opened pull requests in. Also automatic.</sub>
-
-<!--CONTRIBS:START-->
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-<a href="https://github.com/MrTickstimely/VOUCHLY"><b>MrTickstimely/VOUCHLY</b></a><br>
-<sub><i>No description yet.</i></sub><br>
-<img src="https://img.shields.io/badge/5%20commits-FF5A0A?style=flat" alt="5 commits">
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-<!--CONTRIBS:END-->
-
-<br>
-
-<img src="assets/title-connect.svg" width="100%" alt="Let's Connect">
+<!--STATS:START-->
+`55 contributions in 2026`  `4 public repositories`  `2 repos contributed to`
+<!--STATS:END-->
 
 <p align="center">
-<a href="mailto:aditi.stack@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Email: aditi.stack@gmail.com"></a>
-<a href="https://www.linkedin.com/in/aditi-sharma-developer"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn: aditi-sharma-developer"></a>
-<a href="https://github.com/aditiprog"><img src="assets/btn-github.svg" height="48" alt="GitHub: aditiprog"></a>
-<a href="https://github.com/aditiprog/aditiprog/raw/main/Aditi_Sharma_Resume.pdf"><img src="assets/btn-resume.svg" height="48" alt="Download resume (PDF)"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=aditiprog&show_icons=true&count_private=true&include_all_commits=true&bg_color=030407&title_color=D4FF24&text_color=E6EDF3&icon_color=1558C9&border_color=1558C9&ring_color=D4FF24" width="49%" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiprog&layout=compact&langs_count=6&bg_color=030407&title_color=D4FF24&text_color=E6EDF3&icon_color=1558C9&border_color=1558C9&ring_color=D4FF24" width="49%" alt="Most used languages">
 </p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=aditiprog&background=030407&border=1558C9&stroke=1558C9&ring=D4FF24&fire=D4FF24&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=D4FF24&sideLabels=E6EDF3&dates=8B93A7" alt="Contribution streak"></p>
+
+<p align="center"><img alt="Contribution snake" src="https://raw.githubusercontent.com/aditiprog/aditiprog/output/snake.svg"></p>
+
+<!--CALENDAR:START-->
+```text
+2026 contribution calendar
+     Jan  Feb Mar Apr May  Jun Jul Aug  Sep Oct  Nov Dec  
+      ·······················█▓····················▓▓·····
+Mon   ·············································▒······
+      ············································▒·······
+Wed   ····················································
+     ·············▒······················▒················
+Fri  ························▓···············▒··········· 
+     ························▒··························· 
+
+     Less · ░ ▒ ▓ █ More
+
+Daily totals and monthly bars fill in on the first automatic update.
+```
+<!--CALENDAR:END-->
+
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  📁  R E P O S I T O R I E S                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+Every public repository I author. This section rebuilds itself automatically, so new repos appear without editing this file.
+
+<!--MAP:START-->
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1558C9","primaryTextColor":"#FFFFFF","primaryBorderColor":"#1558C9","lineColor":"#D4FF24","fontFamily":"Segoe UI, Helvetica, sans-serif"}}}%%
+flowchart LR
+  subgraph MAP["Repository map"]
+    direction LR
+    ME(["aditiprog"]):::hot
+    ME e0@--> R0["SMS-SPAM-DETECTION"]:::n
+    ME e1@--> R1["Password-Generator"]:::n
+    ME e2@--> R2["bankmind-aditi-sharma"]:::n
+    ME e3@--> R3["Event_Vision"]:::n
+    ME e100@-.-> X0["ADAPTA WAF"]:::hot
+    ME e101@-.-> X1["MrTickstimely/VOUCHLY"]:::hot
+  end
+  e0@{ animate: true }
+  e1@{ animate: true }
+  e2@{ animate: true }
+  e3@{ animate: true }
+  style MAP fill:#030407,stroke:#1558C9,stroke-width:2px,color:#D4FF24
+  classDef n fill:#1558C9,stroke:#1558C9,color:#FFFFFF
+  classDef hot fill:#D4FF24,stroke:#D4FF24,color:#030407,stroke-width:2px
+  linkStyle default stroke:#D4FF24,stroke-width:2.5px
+```
+<!--MAP:END-->
+
+<!--REPOS:START-->
+| Repository | About | Language | ★ |
+|:--|:--|:--|--:|
+| **[SMS-SPAM-DETECTION](https://github.com/aditiprog/SMS-SPAM-DETECTION)** | SMS spam detection. |  |  |
+| **[Password-Generator](https://github.com/aditiprog/Password-Generator)** | Password generator. |  |  |
+| **[bankmind-aditi-sharma](https://github.com/aditiprog/bankmind-aditi-sharma)** | Term-deposit prediction API with an LLM explanation layer. | `Python` |  |
+| **[Event_Vision](https://github.com/aditiprog/Event_Vision)** | Event-driven neuromorphic video analytics. Python, FastAPI, React. Live on Vercel. | `Python` |  |
+<!--REPOS:END-->
+
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  🤝  T E A M  P R O J E C T S  &  C O N T R I B U T I O N S┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+Projects I work on with a team or contribute to on other accounts. Public ones are picked up automatically; private ones are listed from `profile-extras.json`.
+
+<!--CONTRIBS:START-->
+| Project | About | Commits | PRs |
+|:--|:--|--:|--:|
+| **[MrTickstimely/VOUCHLY](https://github.com/MrTickstimely/VOUCHLY)** | Team project. | 5 |  |
+| **[ADAPTA WAF](https://github.com/Sinflin/WAF)** <sub>Sinflin/WAF</sub> `private` | Web application firewall. Team project (private repository). |  |  |
+<!--CONTRIBS:END-->
+
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  📬  L E T ' S  C O N N E C T                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+<p align="center">
+<a href="mailto:aditi.stack@gmail.com"><img src="https://img.shields.io/badge/Email-D4FF24?style=for-the-badge&labelColor=D4FF24&logo=gmail&logoColor=030407" alt="Email"></a>
+<a href="https://www.linkedin.com/in/aditi-sharma-developer"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-1558C9?style=for-the-badge&labelColor=1558C9" alt="💼 LinkedIn"></a>
+<a href="https://github.com/aditiprog"><img src="https://img.shields.io/badge/GitHub-D4FF24?style=for-the-badge&labelColor=D4FF24&logo=github&logoColor=030407" alt="GitHub"></a>
+<a href="https://github.com/aditiprog/aditiprog/raw/main/Aditi_Sharma_Resume.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84%20Download%20Resume-1558C9?style=for-the-badge&labelColor=1558C9" alt="📄 Download Resume"></a>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=030407&section=footer" width="100%" alt=""></p>
+
